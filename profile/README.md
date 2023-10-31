@@ -5,7 +5,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hewiew)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Semi-Saturo)
 
-<img align="right" alt="img" src="../semi-saturo.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="semi-saturo.jpg" width="50%" height="auto" />
 
 #### 🌱 Field of research: 
 - LiDAR Data Process.
