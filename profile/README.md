@@ -5,7 +5,6 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hewiew)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Semi-Saturo)
 
-🔭 
 <img align="right" alt="img" src="../semi-saturo.jpg" width="50%" height="auto" />
 
 #### 🌱 Field of research: 
@@ -23,19 +22,9 @@
 
 👈 **Follow me on the left（点击左侧关注我）**
 
-<img align="right" alt="img" src="lufei.jpg" width="50%" height="auto" />
-
-
-<a href="https://github.com/Semi-Saturo" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Semi-Saturo&title_color=333&text_color=777" alt="Semi-Saturo's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Semi-Saturo&hide=issues&title_color=333&text_color=777&count_private=true" alt="Semi-Saturo's Stats" >
-    -->
-  </a>
 
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
