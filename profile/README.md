@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Semi-Saturo)
 
 🔭 
-<img align="right" alt="img" src="death.png" width="50%" height="auto" />
+<img align="right" alt="img" src="../semi-saturo.jpg" width="50%" height="auto" />
 
 #### 🌱 Field of research: 
 - LiDAR Data Process.
@@ -25,8 +25,26 @@
 
 <img align="right" alt="img" src="lufei.jpg" width="50%" height="auto" />
 
-#### 🖥️ Programming languages and tools: 
 
+<a href="https://github.com/Semi-Saturo" class="rich-diff-level-one">
+    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Semi-Saturo&title_color=333&text_color=777" alt="Semi-Saturo's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Semi-Saturo&hide=issues&title_color=333&text_color=777&count_private=true" alt="Semi-Saturo's Stats" >
+    -->
+  </a>
+
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+#### 🖥️ Programming languages and tools: 
 <p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" bottom="3px" src="https://upload.vectorlogo.zone/logos/typescriptlang/images/c108b043-7101-4485-a8a2-4b2a9ac6f8b4.svg"></code>
@@ -52,23 +70,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
-
-<a href="https://github.com/Semi-Saturo" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Semi-Saturo&title_color=333&text_color=777" alt="Semi-Saturo's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Semi-Saturo&hide=issues&title_color=333&text_color=777&count_private=true" alt="Allen's Stats" >
-    -->
-  </a>
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
